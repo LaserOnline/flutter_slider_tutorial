@@ -1,2 +1,2 @@
-# flutter Widget slider
+# flutter Widget Slider
 ---
